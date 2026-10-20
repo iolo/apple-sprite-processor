@@ -1,0 +1,64 @@
+{
+  "emulator_tested": false,
+  "assembly": {
+    "asp": {
+      "address": "8700",
+      "length": 3142,
+      "sha256": "7913e780a6a528675b56a43d4ced6da440ca46bbbf602fea17f0903aca608712",
+      "printed_checksums": {
+        "rows": 393,
+        "columns": 160,
+        "blocks": 20
+      }
+    },
+    "get-utility": {
+      "address": "0300",
+      "length": 113,
+      "sha256": "f7fc47581175f77129a3c1db0b50106ce6da0b16884c3b0b2fa19cdebd3668ff",
+      "matches_printed_bytes": true
+    },
+    "reset": {
+      "address": "0390",
+      "length": 29,
+      "sha256": "233e98f9bc22ec3a7022499a83a6da4294a7eddb05a6369244b5dbc2c3805cb6",
+      "matches_printed_bytes": true
+    }
+  },
+  "basic": {
+    "february-get-demo.bas": {
+      "lines": 71,
+      "token_roundtrip": "not checked: a2kit parser rejects ASP extension syntax"
+    },
+    "february-list-1-ampersand.bas": {
+      "lines": 5,
+      "token_roundtrip": "not checked: a2kit parser rejects ASP extension syntax"
+    },
+    "february-list-1-poke-call.bas": {
+      "lines": 7,
+      "token_roundtrip": true,
+      "tokenized_bytes": 155
+    },
+    "january-demo.bas": {
+      "lines": 124,
+      "token_roundtrip": "not checked: a2kit parser rejects ASP extension syntax"
+    },
+    "january-demo.corrected.bas": {
+      "lines": 124,
+      "token_roundtrip": "not checked: a2kit parser rejects ASP extension syntax"
+    },
+    "january-example-1.bas": {
+      "lines": 9,
+      "token_roundtrip": "not checked: a2kit parser rejects ASP extension syntax"
+    }
+  },
+  "sprites": {
+    "address": "6000",
+    "length": 276,
+    "sha256": "b65a0d82577f4b6c3efcd6891c7fba17a3a8dd8a45b6b8d3ab9fc5d863818306",
+    "printed_checksums": {
+      "rows": 35,
+      "columns": 16,
+      "blocks": 2
+    }
+  }
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 6439,
+    "sha256": "90328707b2193afc69a930561f124562b384b2a73c602c3392a7ac87d1f46e34"
+  },
+  {
+    "path": "asm/asp.ca65.s",
+    "bytes": 40019,
+    "sha256": "c079454914bec26a6fdcbeea3dbb7478f3b93831b8a5acb6f4690ec3b1d27559"
+  },
+  {
+    "path": "asm/asp.merlin.s",
+    "bytes": 25720,
+    "sha256": "10286b84ec097341dce802357d70a9df98f1344e395ac465ed8faf152ff9e428"
+  },
+  {
+    "path": "asm/get-utility.ca65.s",
+    "bytes": 1918,
+    "sha256": "636c2840038ddb425bec3149c79f92e695a13fd687821c2138814a9b7af9c0ac"
+  },
+  {
+    "path": "asm/get-utility.merlin.s",
+    "bytes": 1225,
+    "sha256": "75cea56912cd3c39d9e0ee865abd37a3ff652e39e63ca05c0d270216b9e12c86"
+  },
+  {
+    "path": "asm/reset.ca65.s",
+    "bytes": 528,
+    "sha256": "3dd2ddd0203b85df1da076b107cef2f891b8909cf6e86d3ea64cb65ad61df92d"
+  },
+  {
+    "path": "asm/reset.merlin.s",
+    "bytes": 338,
+    "sha256": "12464fd2b3cc913277e421026dd20ba0080da08549219f986a70f51803a412fa"
+  },
+  {
+    "path": "basic/february-get-demo.bas",
+    "bytes": 1976,
+    "sha256": "3b47ecca1f7937ca3dcfbfb449e92f14492fecf9525a793ab604457617f9a986"
+  },
+  {
+    "path": "basic/february-list-1-ampersand.bas",
+    "bytes": 80,
+    "sha256": "ea5cf8c49f9c1abee7dcc544020d4849300b3b3f2b0511bfd0f665511c655e17"
+  },
+  {
+    "path": "basic/february-list-1-poke-call.bas",
+    "bytes": 238,
+    "sha256": "252b5b258074fca13fe9df2c30c03c1a028514d6e156ff2661e9b4edadd11716"
+  },
+  {
+    "path": "basic/january-demo.bas",
+    "bytes": 4720,
+    "sha256": "4ef9bda88942c39c9c48ff3ba1aa7a974d4ff112f1dc63b067c27b92104aa423"
+  },
+  {
+    "path": "basic/january-demo.corrected.bas",
+    "bytes": 4719,
+    "sha256": "4ff0839af31a80c268898825555d7ec3e99916cc7272683414b46bbe613699ea"
+  },
+  {
+    "path": "basic/january-example-1.bas",
+    "bytes": 193,
+    "sha256": "19f0defc3ea025964cd6d47ae81c1b49a4672a602033b42efd4608ad2d7f53d5"
+  },
+  {
+    "path": "bin/asp-8700.bin",
+    "bytes": 3142,
+    "sha256": "7913e780a6a528675b56a43d4ced6da440ca46bbbf602fea17f0903aca608712"
+  },
+  {
+    "path": "bin/get-utility-0300.bin",
+    "bytes": 113,
+    "sha256": "f7fc47581175f77129a3c1db0b50106ce6da0b16884c3b0b2fa19cdebd3668ff"
+  },
+  {
+    "path": "bin/reset-0390.bin",
+    "bytes": 29,
+    "sha256": "233e98f9bc22ec3a7022499a83a6da4294a7eddb05a6369244b5dbc2c3805cb6"
+  },
+  {
+    "path": "bin/spr-fight-6000.bin",
+    "bytes": 276,
+    "sha256": "b65a0d82577f4b6c3efcd6891c7fba17a3a8dd8a45b6b8d3ab9fc5d863818306"
+  },
+  {
+    "path": "hex/asp-8700.hex",
+    "bytes": 11784,
+    "sha256": "0e4e0b6d9f3aa050e4c354eff4ce13d49882dd9206900aca4e9ee3cd6dc4092b"
+  },
+  {
+    "path": "hex/asp-checksums.json",
+    "bytes": 4033,
+    "sha256": "bb2a0d0c2fcf76f2a29fba6cf88edf978c37da393bf8e9a2fb0c6f8dd26a83ba"
+  },
+  {
+    "path": "hex/get-utility-0300.hex",
+    "bytes": 429,
+    "sha256": "afa59b45ff0000f027990717d3c15a86ce5aeedfac033a40ac71ebd30b4f6a74"
+  },
+  {
+    "path": "hex/reset-0390.hex",
+    "bytes": 111,
+    "sha256": "ded9676a8bd448308138d1c00dcd04fe4cfe6c21abedcee0cd563047d4b0c18c"
+  },
+  {
+    "path": "hex/spr-fight-6000.hex",
+    "bytes": 1038,
+    "sha256": "306a32b03942efc15abcd9da15cad7fa3e7ff5108c2c6b29973bd4c4688f0df4"
+  },
+  {
+    "path": "hex/spr-fight-checksums.json",
+    "bytes": 394,
+    "sha256": "78c27af16b2842c2d7829afd47a4085499c8855cb4b040bd65e03db270e014b4"
+  },
+  {
+    "path": "rebuild.py",
+    "bytes": 10271,
+    "sha256": "95b83fe3e49cfc5bcb83df6e77b5a314b967821d6fa7f252fee1e9fc85fdb4a2"
+  },
+  {
+    "path": "verification.json",
+    "bytes": 1764,
+    "sha256": "2d7ffba52b84d7611fdc39c529ab1d343bea17819345c990ef5d1e74959b0a8b"
+  }
+]
